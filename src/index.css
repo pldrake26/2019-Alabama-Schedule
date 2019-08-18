@@ -1,0 +1,16 @@
+.header {
+  background-color: crimson;
+  color: white;
+  padding: 1em;
+}
+
+.games-header {
+  margin-top: 5em;
+  margin-bottom: 1em;
+  color: crimson;
+}
+
+.footer {
+  margin-top: 5em;
+  color: crimson;
+}
